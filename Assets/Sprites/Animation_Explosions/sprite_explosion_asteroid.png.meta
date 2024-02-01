@@ -1,0 +1,2008 @@
+fileFormatVersion: 2
+guid: 6bef2b914abd2bf4198096d1a8645559
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a575efaf30f71443a28e1b84cf21799
+      internalID: 174324542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a05f15b39762714a9e70a4f129e5d4b
+      internalID: -396500307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3edc76125eb6914ba57fa8b16d95792
+      internalID: -1499267685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_3
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e399bd802034d0a47a4d5615dab3b69a
+      internalID: -1808034566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_4
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a39b08956c39b4f8a577a142d9b25b
+      internalID: 417553668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_5
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5299e92a2b0307646942cdfbf4b2dd92
+      internalID: -52587038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_6
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d3ae78434157a4ca6f9e0fb49a9bcb
+      internalID: -19474296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_7
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a2979f35d4ab445aa07ea17f9e8852
+      internalID: 1112198757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_8
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd4bd2dd89615419ec92e864baedb0
+      internalID: -983894302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_9
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b63a121ffd3745937c905785cd874
+      internalID: -1531220413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_10
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a2df85d67cde408e89b939f91ef72
+      internalID: 1126684735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_11
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 1715.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c424d20083d574eaf54aa5e77ccc9e
+      internalID: 118010361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b3c18bcc856bd41aee55f9390f3920
+      internalID: 1407156139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17b480df5a73ad4882a867f3a8dbefe
+      internalID: -504755509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f88668b5b394a48967825f7bc21c93
+      internalID: 1570962114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_15
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa96523d33acd46991d46b552a16ff
+      internalID: -1810134234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_16
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36f920f087df044e948a13391541e1d
+      internalID: -414549207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_17
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7443bd9091924074bbc7c9abc03d6a55
+      internalID: 1198984353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_18
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527f441e50cc6574eaf007af7e79a905
+      internalID: 39103381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_19
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1268ee0a1adf4893a30d41eee269a
+      internalID: -1752993830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_20
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cfa93972ba0a9459a0a4e0100abf2d
+      internalID: -840795086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_21
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd58bf48e21b5748995dc99dd43e92d
+      internalID: -1834239939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_22
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef587baf9dc0c4894e16cfd27786e5
+      internalID: -30965399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_23
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 1430.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabba648debd35243914ea0c02def8ed
+      internalID: 204451478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d454791d61f54b4381ec65f16e34601
+      internalID: -252812126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc2736d2f31b784291d7b3ffbdba323
+      internalID: 704087541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_26
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a0f2c670babb14481dd7b92bcb01e9
+      internalID: -1549847907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_27
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8d4b1c62aad9c4f838e2dbfeaba585
+      internalID: 1555028899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_28
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e2015046e8a7449ad43ca048f986f1
+      internalID: 540339406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_29
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c59dacb4bd554c4faaceedb9e3b4286
+      internalID: -695565259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_30
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487e4494796916444a0793cd72b25ef8
+      internalID: -1625699296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_31
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423fc079ba05b44d86e537644f089e3
+      internalID: -361176364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_32
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d0808e28f3c754c8081b2eda3bfbf4
+      internalID: -1277701327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_33
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f52ad356f707d40aec90b493119a13
+      internalID: 1727685995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_34
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d471169ecbefb3f478b5d9fa7bc9835d
+      internalID: -1496283031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_35
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 1145.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0b2ae8a551604c804340fe27d3190
+      internalID: 837643666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a22ff516e6cac448e974488124b237
+      internalID: 1148146534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c32c1b1368b974993871697c4a0b3e
+      internalID: 1044293872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_38
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1140a37affe17604cafe9de6d4f555f3
+      internalID: 1967268819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_39
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ce087f2d1a0b4a9f1435f4747ef57
+      internalID: -1134319568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_40
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa934aca9e5ed314c9a7c78aff6933ae
+      internalID: -1450033927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_41
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dfa01067dab6e4eb2edf55deb9bb24
+      internalID: -1348548055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_42
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a965241f0fe241a2fbcdc21b69b01
+      internalID: 1816814636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_43
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff60e61383d929b4380c446da77e112f
+      internalID: 1562092326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_44
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a086882a5848964ea60ec5fa737af19
+      internalID: -1285689635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_45
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f3812d3e098c4897ef7ef46216353
+      internalID: -504895762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_46
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d240610b2d354587f7d512407401d
+      internalID: -1425776126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_47
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 860.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b2ca9a071bb3a49abfe8aa237dcd1e
+      internalID: -1293195508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b791dd1a86a369b42bf39edb9ee9b832
+      internalID: 464250732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae75d6dc9680848b97799d044e4dd4
+      internalID: -1207172107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_50
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b80af52fd64f9d4bbe9aa8df6b6aa6a
+      internalID: 573820813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_51
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acae880a88c1d5d41bef07c0f4438344
+      internalID: 1737584280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_52
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805b6fa7a01b2134db6110c091695333
+      internalID: -1519232766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_53
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e54d867440d82c40b60d27b938e9c64
+      internalID: -1052429090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_54
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b193abfebe2dc984e8571094993da3a9
+      internalID: 862414267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_55
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce14ff5db4964ae4f81c1da7806c7c3e
+      internalID: -697620868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_56
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e813b9f0936e141894deefee2e5fec
+      internalID: -1282636119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_57
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854407e751b93843bd5248dae2b43fe
+      internalID: 2133428856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_58
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647e2a0a2247cdb4aadd65649d6be4e0
+      internalID: 25344199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_59
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 575.1428
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a92681cb8b6ef478a355354e710fa8
+      internalID: -2146233685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dad1765e1a91b94fa9742040c0d1d44
+      internalID: 1189809030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_61
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f9c878d4bd6d64f8d49f379fd019b5
+      internalID: -156309711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_62
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a82a1de2688684f851ac336a973f49
+      internalID: -529998817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_63
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bde1c2eb36686443b70ab79a1d943f9
+      internalID: 1400071513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_64
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ca2faaa3cc6f4e84bb5d81ac3b173
+      internalID: 2039642090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_65
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aa221e25bd2b94bac34daddbae6569
+      internalID: -350049349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_66
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce70934d1b90b7040bd8618174b7f39b
+      internalID: -2067169598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_67
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b17eeec2aa4d594bb8456c8ff7da58d
+      internalID: 902773514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_68
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b50e3fc1223d84fa7887427d06f62f
+      internalID: -262257422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_69
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d489c90e53becee4a99ebd1696200155
+      internalID: 385433815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_70
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76e53f9475265439a66e2d2c851a58
+      internalID: 1879194535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_71
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 290.14285
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbb0b629ee74fe43b3b151f09691903
+      internalID: 413451871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5df2825d4bd7c42afe1a5cc99cb5b5
+      internalID: -1697869033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_73
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea781aa13bc7d714bbe3312e6875c811
+      internalID: -1449428524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_74
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23617deb54446114bbdff902e6315525
+      internalID: 895136054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_75
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f49e5c10a13df94689d5df49d9510f6
+      internalID: 191985136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_76
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d51995efbf984a8df8547028fd5f1
+      internalID: 1608986387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_77
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b520fcc8000b43928455385d20d70
+      internalID: 1775393119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_78
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eee87f9535000b4dae55b361808c2d9
+      internalID: -381505560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_79
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82aea481a1457f43b3b868f7bc20978
+      internalID: -219817066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_80
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4207e618caf6a7a4ebb898e206a8515e
+      internalID: 1588075534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_81
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be151497342ee4f45abc8db02f154f36
+      internalID: 729109687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_82
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58795e61301a84f4cb961d48773fa531
+      internalID: 1805245657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_explosion_asteroid_83
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 5.142853
+        width: 341.41666
+        height: 285.85715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799217d41f775bb4db4a4f707a7e6087
+      internalID: 1970959044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite_explosion_asteroid_3: -1808034566
+      sprite_explosion_asteroid_32: -1277701327
+      sprite_explosion_asteroid_60: 1189809030
+      sprite_explosion_asteroid_2: -1499267685
+      sprite_explosion_asteroid_50: 573820813
+      sprite_explosion_asteroid_5: -52587038
+      sprite_explosion_asteroid_70: 1879194535
+      sprite_explosion_asteroid_44: -1285689635
+      sprite_explosion_asteroid_24: -252812126
+      sprite_explosion_asteroid_53: -1052429090
+      sprite_explosion_asteroid_40: -1450033927
+      sprite_explosion_asteroid_83: 1970959044
+      sprite_explosion_asteroid_15: -1810134234
+      sprite_explosion_asteroid_30: -1625699296
+      sprite_explosion_asteroid_12: 1407156139
+      sprite_explosion_asteroid_26: -1549847907
+      sprite_explosion_asteroid_71: 413451871
+      sprite_explosion_asteroid_55: -697620868
+      sprite_explosion_asteroid_38: 1967268819
+      sprite_explosion_asteroid_41: -1348548055
+      sprite_explosion_asteroid_80: 1588075534
+      sprite_explosion_asteroid_77: 1775393119
+      sprite_explosion_asteroid_47: -1293195508
+      sprite_explosion_asteroid_37: 1044293872
+      sprite_explosion_asteroid_1: -396500307
+      sprite_explosion_asteroid_19: -1752993830
+      sprite_explosion_asteroid_11: 118010361
+      sprite_explosion_asteroid_74: 895136054
+      sprite_explosion_asteroid_69: 385433815
+      sprite_explosion_asteroid_31: -361176364
+      sprite_explosion_asteroid_43: 1562092326
+      sprite_explosion_asteroid_23: 204451478
+      sprite_explosion_asteroid_65: -350049349
+      sprite_explosion_asteroid_25: 704087541
+      sprite_explosion_asteroid_27: 1555028899
+      sprite_explosion_asteroid_52: -1519232766
+      sprite_explosion_asteroid_78: -381505560
+      sprite_explosion_asteroid_76: 1608986387
+      sprite_explosion_asteroid_6: -19474296
+      sprite_explosion_asteroid_14: 1570962114
+      sprite_explosion_asteroid_34: -1496283031
+      sprite_explosion_asteroid_75: 191985136
+      sprite_explosion_asteroid_73: -1449428524
+      sprite_explosion_asteroid_7: 1112198757
+      sprite_explosion_asteroid_0: 174324542
+      sprite_explosion_asteroid_82: 1805245657
+      sprite_explosion_asteroid_54: 862414267
+      sprite_explosion_asteroid_62: -529998817
+      sprite_explosion_asteroid_49: -1207172107
+      sprite_explosion_asteroid_35: 837643666
+      sprite_explosion_asteroid_42: 1816814636
+      sprite_explosion_asteroid_59: -2146233685
+      sprite_explosion_asteroid_48: 464250732
+      sprite_explosion_asteroid_61: -156309711
+      sprite_explosion_asteroid_16: -414549207
+      sprite_explosion_asteroid_4: 417553668
+      sprite_explosion_asteroid_79: -219817066
+      sprite_explosion_asteroid_66: -2067169598
+      sprite_explosion_asteroid_10: 1126684735
+      sprite_explosion_asteroid_56: -1282636119
+      sprite_explosion_asteroid_21: -1834239939
+      sprite_explosion_asteroid_45: -504895762
+      sprite_explosion_asteroid_9: -1531220413
+      sprite_explosion_asteroid_17: 1198984353
+      sprite_explosion_asteroid_28: 540339406
+      sprite_explosion_asteroid_67: 902773514
+      sprite_explosion_asteroid_36: 1148146534
+      sprite_explosion_asteroid_8: -983894302
+      sprite_explosion_asteroid_46: -1425776126
+      sprite_explosion_asteroid_51: 1737584280
+      sprite_explosion_asteroid_63: 1400071513
+      sprite_explosion_asteroid_81: 729109687
+      sprite_explosion_asteroid_64: 2039642090
+      sprite_explosion_asteroid_68: -262257422
+      sprite_explosion_asteroid_29: -695565259
+      sprite_explosion_asteroid_39: -1134319568
+      sprite_explosion_asteroid_58: 25344199
+      sprite_explosion_asteroid_20: -840795086
+      sprite_explosion_asteroid_18: 39103381
+      sprite_explosion_asteroid_33: 1727685995
+      sprite_explosion_asteroid_72: -1697869033
+      sprite_explosion_asteroid_13: -504755509
+      sprite_explosion_asteroid_57: 2133428856
+      sprite_explosion_asteroid_22: -30965399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
